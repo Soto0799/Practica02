@@ -1,0 +1,23 @@
+h1{
+    background: darkcyan;
+    color: khaki;
+    font-family: monospace;
+    font-size: 28px;
+    text-align: center;
+}
+
+h2{
+    background: grey;
+    color: white;
+}
+
+footer:hover{
+    color: brown;
+    font-size: 24px;
+    animation-delay: 1s;
+}
+
+p{
+    color : brown;
+    font-size: 19px;
+}

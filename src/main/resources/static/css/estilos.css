@@ -1,0 +1,25 @@
+header{
+    background: darkcyan;
+    color: khaki;
+    font-family: monospace;
+    font-size: 28px;
+    text-align: center;
+}
+
+h3{
+    background: lightcoral;
+    color: midnightblue;
+    font-family: cursive;
+    font-size: 24px;
+}
+
+footer:hover{
+    color: brown;
+    font-size: 24px;
+    animation-delay: 1s;
+}
+
+p{
+    font-family: Comic Sans MS;
+    color:seagreen;
+}
